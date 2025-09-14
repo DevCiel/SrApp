@@ -1,4 +1,4 @@
-### Sriaas App
+### SR App
 
 Custom fields and logic for erpnext
 
