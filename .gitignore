@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.swp
+.DS_Store
+node_modules/
+dist/
+*.log
+assets/
+*.sqlite3
+.env
