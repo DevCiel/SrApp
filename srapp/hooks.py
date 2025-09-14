@@ -1,5 +1,5 @@
 app_name = "srapp"
-app_title = "Sriaas App"
+app_title = "Sr App"
 app_publisher = "SRIAAS"
 app_description = "Custom fields and logic for erpnext"
 app_email = "webdevelopersriaas@gmail.com"
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "srapp",
 # 		"logo": "/assets/srapp/logo.png",
-# 		"title": "Sriaas App",
+# 		"title": "SR App",
 # 		"route": "/srapp",
 # 		"has_permission": "srapp.api.permission.has_app_permission"
 # 	}
